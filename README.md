@@ -18,3 +18,11 @@
   - Then next half will be from 2:00 PM to 5:30 PM
 - In each half in a day, we have tried to keep three sessions each mostly.
 - Three sessions are: two lectures of one hour each and one lab for one and a half hour
+
+<br/>
+
+To better understand the structure of the course check out the following 3 slides:
+
+- [Units 1, 2 and 3](https://docs.google.com/presentation/d/1irmMcY-L1QwJnSiW05OpSBiZKEYFQlCd3TvQPQ59JHI/edit#slide=id.ga38e44239d_2_12)
+- [Units 4, 5 and 6](https://docs.google.com/presentation/d/1irmMcY-L1QwJnSiW05OpSBiZKEYFQlCd3TvQPQ59JHI/edit#slide=id.ga38e44239d_2_15)
+- [Units 7, 8 and 9](https://docs.google.com/presentation/d/1irmMcY-L1QwJnSiW05OpSBiZKEYFQlCd3TvQPQ59JHI/edit#slide=id.ga38e44239d_2_18)
